@@ -1,6 +1,7 @@
 body {
-    background-color: rgb(196, 200, 255);
+    background: url('img/bg-desktop.webp');
     font-family: Bai Jamjuree;
+}
 
 #container {
     display: flex;
