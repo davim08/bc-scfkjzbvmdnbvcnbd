@@ -88,3 +88,20 @@ footer p {
      padding: 4rem;
      gap: 3rem;
 }
+criaCartao(
+    'História',
+    'O que é um conflito?',
+    'O conflito é quando duas ou mais pessoas brigão'
+)
+
+criaCartao(
+    'Geografia',
+    'Qual a capital da França?',
+    'A capital da França é Paris'
+)
+
+criaCartao(
+    'História',
+    'Quanto tempo durou a guerra dos 100 anos?',
+    'Ela durou exatos 106 anos'
+)
